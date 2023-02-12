@@ -1,0 +1,8 @@
+{
+  "name": "Snow Tyre",
+  "description": "Snow Tyres",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmQQZmktRLVMywNuKYUA3qv9zC3LqZti6rk4QkSH9bkgUZ",
+  "attack": 123,
+  "collectable": true,
+  "class": "EnumValue2"
+}

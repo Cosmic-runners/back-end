@@ -1,0 +1,8 @@
+{
+  "name": "Dirt Tyre",
+  "description": "Dirt Tyres",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmZEW5JHJLZjXqkjauGN3SmhSZsaREJhF7y13kUXZMbmac",
+  "attack": 123,
+  "collectable": true,
+  "class": "EnumValue3"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Summer Tyre",
+  "description": "Summer/Performance Tyres",
+  "image_url":"https://gateway.pinata.cloud/ipfs/QmX3ZNkvz4QUCcRWuyQkM37MyZpNbAMBrA9cAj3x2JJFXa",
+  "attack": 123,
+  "collectable": true,
+  "class": "EnumValue1"
+}
